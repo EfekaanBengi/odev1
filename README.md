@@ -1,2 +1,2 @@
-# -dev1
-Acunmedya Akademi 1. hafta ödevi
+# -Odev-1
+Acunmedya Akademi AkademiQ YZİP 1. Hafta Ödevi
